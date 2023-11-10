@@ -1,0 +1,63 @@
+{
+  "stringTable": {
+    "0": "C:/Users/user/AndroidStudioProjects/ncnn-android-nanodet-master/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android24 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnanodetncnn_EXPORTS -isystem C:/Users/user/AndroidStudioProjects/ncnn-android-nanodet-master/app/src/main/jni/ncnn-20230816-android/x86/include/ncnn -isystem C:/Users/user/AndroidStudioProjects/ncnn-android-nanodet-master/app/src/main/jni/opencv-mobile-4.8.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions -std=gnu++11"
+  },
+  "buildFiles": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.8.0-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.8.0-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.8.0-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules-release.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20230816-android\\x86\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\compiler_id.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.8.0-android\\sdk\\native\\jni\\abi-x86\\OpenCVConfig.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20230816-android\\x86\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.8.0-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20230816-android\\x86\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\android-legacy.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "nanodetncnn-Debug-x86": {
+      "buildCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\.cxx\\cmake\\debug\\x86\" nanodetncnn",
+      "buildType": "debug",
+      "toolchain": "259767585",
+      "abi": "x86",
+      "artifactName": "nanodetncnn",
+      "files": [
+        {
+          "src": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\nanodetncnn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\nanodet.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnanodetncnn.so",
+      "runtimeFiles": [
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20230816-android\\x86\\lib\\libncnn.a",
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.8.0-android\\sdk\\native\\staticlibs\\x86\\libopencv_core.a",
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.8.0-android\\sdk\\native\\staticlibs\\x86\\libopencv_imgproc.a",
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.8.0-android\\sdk\\native\\staticlibs\\x86\\libopencv_core.a"
+      ]
+    }
+  },
+  "toolchains": {
+    "259767585": {
+      "cppCompilerExecutable": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

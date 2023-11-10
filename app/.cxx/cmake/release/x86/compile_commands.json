@@ -1,0 +1,13 @@
+[
+{
+  "directory": "C:/Users/user/AndroidStudioProjects/ncnn-android-nanodet-master/app/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnanodetncnn_EXPORTS -isystem C:/Users/user/AndroidStudioProjects/ncnn-android-nanodet-master/app/src/main/jni/ncnn-20210525-android-vulkan/x86/include/ncnn -isystem C:/Users/user/AndroidStudioProjects/ncnn-android-nanodet-master/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -DNDEBUG  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\nanodetncnn.dir\\nanodetncnn.cpp.o -c C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\nanodetncnn.cpp",
+  "file": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\nanodetncnn.cpp"
+},
+
+{
+  "directory": "C:/Users/user/AndroidStudioProjects/ncnn-android-nanodet-master/app/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnanodetncnn_EXPORTS -isystem C:/Users/user/AndroidStudioProjects/ncnn-android-nanodet-master/app/src/main/jni/ncnn-20210525-android-vulkan/x86/include/ncnn -isystem C:/Users/user/AndroidStudioProjects/ncnn-android-nanodet-master/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -DNDEBUG  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\nanodetncnn.dir\\nanodet.cpp.o -c C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\nanodet.cpp",
+  "file": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\nanodet.cpp"
+}
+]

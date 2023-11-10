@@ -1,0 +1,14 @@
+# ninja log v5
+7	477	718267359	build.ninja	33be2e2b810d01d2
+0	7	0	clean	4a0ad9cce977d139
+0	145	718267363	build.ninja	33be2e2b810d01d2
+0	561	718267363	CMakeFiles/nanodetncnn.dir/nanodetncnn.cpp.o	464c1bbb0a47b136
+3	632	718267363	CMakeFiles/nanodetncnn.dir/nanodet.cpp.o	7858bb62eccf880b
+632	844	718267364	C:/Users/user/AndroidStudioProjects/ncnn-android-nanodet-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnanodetncnn.so	64c2f0dfe5a9011
+0	318	721295922	build.ninja	33be2e2b810d01d2
+0	7	0	clean	4a0ad9cce977d139
+5	1194	721295927	CMakeFiles/nanodetncnn.dir/nanodetncnn.cpp.o	fae60f5e4601386c
+1	493	721309881	build.ninja	33be2e2b810d01d2
+6	942	721309882	CMakeFiles/nanodetncnn.dir/nanodetncnn.cpp.o	464c1bbb0a47b136
+2	1117	721309882	CMakeFiles/nanodetncnn.dir/nanodet.cpp.o	7858bb62eccf880b
+1117	1295	721309882	C:/Users/user/AndroidStudioProjects/ncnn-android-nanodet-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnanodetncnn.so	64c2f0dfe5a9011

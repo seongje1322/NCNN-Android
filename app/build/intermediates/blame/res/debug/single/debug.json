@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test2.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\res\\drawable\\test2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test6.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\res\\drawable\\test6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test3.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\res\\drawable\\test3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test5.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\res\\drawable\\test5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test4.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\res\\drawable\\test4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test1.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\res\\drawable\\test1.jpg"
+    }
+]

@@ -1,0 +1,49 @@
+{
+  "buildFiles": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\compiler_id.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVConfig.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\OSDependentTargets.cmake",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\glslangTargets-release.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules-release.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\glslangTargets.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\SPIRVTargets.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\android-legacy.toolchain.cmake",
+    "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnnConfig.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\.cxx\\cmake\\debug\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "nanodetncnn-Debug-x86_64": {
+      "artifactName": "nanodetncnn",
+      "buildCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\.cxx\\cmake\\debug\\x86_64\" nanodetncnn",
+      "abi": "x86_64",
+      "output": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libnanodetncnn.so",
+      "runtimeFiles": [
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\libncnn.a",
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\staticlibs\\x86_64\\libopencv_core.a",
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\staticlibs\\x86_64\\libopencv_imgproc.a",
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\libglslang.a",
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\libSPIRV.a",
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\libMachineIndependent.a",
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\libOGLCompiler.a",
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\libOSDependent.a",
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\ncnn-20210525-android-vulkan\\x86_64\\lib\\libGenericCodeGen.a",
+        "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\staticlibs\\x86_64\\libopencv_core.a"
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+com.tencent.nanodetncnn
+array cpugpu_array
+array model_array
+drawable test1
+drawable test2
+drawable test3
+drawable test4
+drawable test5
+drawable test6
+id image_view
+id predictbutton
+id spinnerCPUGPU
+id spinnerModel
+layout main
+string app_name

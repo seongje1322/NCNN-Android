@@ -1,0 +1,10 @@
+{
+  "ndkVersionFromDsl": "25.2.9519653",
+  "ndkDirProperty": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620",
+  "sdkFolder": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk",
+  "sideBySideNdkFolderNames": [
+    "23.1.7779620",
+    "25.1.8937393",
+    "25.2.9519653"
+  ]
+}

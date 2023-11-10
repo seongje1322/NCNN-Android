@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\AndroidStudioProjects\\ncnn-android-nanodet-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "193,104,55",
+                        "endLines": "9,5,2",
+                        "endColumns": "19,19,48",
+                        "endOffsets": "297,188,99"
+                    },
+                    "to": {
+                        "startLines": "2,6,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,164,253",
+                        "endLines": "5,8,9",
+                        "endColumns": "19,19,48",
+                        "endOffsets": "159,248,297"
+                    }
+                }
+            ]
+        }
+    ]
+}
